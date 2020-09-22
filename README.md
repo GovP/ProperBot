@@ -1,18 +1,19 @@
 6-axis arm for development and replicable for production purposes.  
 Targeted payload: 1kg at 1m
 
-#Completed:  
+### Tasks  
+#### Completed:  
 CAD/ Cycloidal Gearbox  
 Forward & Inverse Kinematics  
 OpenCV model for vision system (based on colour and shape detection)  
 
-#Ongoing:  
+#### Ongoing:  
 CAD/ Construction of robot in SolidWorks  
 
-#Later:  
+#### Later:  
 CAD/ Grippers (pinch, suction)  
 
-#Specs:  
+### Specs:  
 Payload: 1kg at 1m  
 Motors: TBD (steppers? brushless?)  
 Encoders: absolute AMT series 2048 - 16384PPR (use two per link, input+ouput to mutliply resolution?)  
